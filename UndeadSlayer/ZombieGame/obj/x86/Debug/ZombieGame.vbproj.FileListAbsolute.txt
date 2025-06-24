@@ -1,0 +1,10 @@
+C:\Users\Ellaine-SPP\Documents\Visual Studio 2010\Projects\ZombieGame\ZombieGame\bin\Debug\ZombieGame.exe
+C:\Users\Ellaine-SPP\Documents\Visual Studio 2010\Projects\ZombieGame\ZombieGame\bin\Debug\ZombieGame.pdb
+C:\Users\Ellaine-SPP\Documents\Visual Studio 2010\Projects\ZombieGame\ZombieGame\bin\Debug\ZombieGame.xml
+C:\Users\Ellaine-SPP\Documents\Visual Studio 2010\Projects\ZombieGame\ZombieGame\obj\x86\Debug\ZombieGame.FrmZombieGame.resources
+C:\Users\Ellaine-SPP\Documents\Visual Studio 2010\Projects\ZombieGame\ZombieGame\obj\x86\Debug\ZombieGame.Resources.resources
+C:\Users\Ellaine-SPP\Documents\Visual Studio 2010\Projects\ZombieGame\ZombieGame\obj\x86\Debug\ZombieGame.vbproj.GenerateResource.Cache
+C:\Users\Ellaine-SPP\Documents\Visual Studio 2010\Projects\ZombieGame\ZombieGame\obj\x86\Debug\ZombieGame.exe
+C:\Users\Ellaine-SPP\Documents\Visual Studio 2010\Projects\ZombieGame\ZombieGame\obj\x86\Debug\ZombieGame.xml
+C:\Users\Ellaine-SPP\Documents\Visual Studio 2010\Projects\ZombieGame\ZombieGame\obj\x86\Debug\ZombieGame.pdb
+C:\Users\Ellaine-SPP\Documents\Visual Studio 2010\Projects\ZombieGame\ZombieGame\obj\x86\Debug\ZombieGame.MainMenu.resources
